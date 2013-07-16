@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First post!"
+title:  "Data reduction, etc."
 date:   2013-07-15 18:55:46
-categories: diary
+categories: data reduction, s2cls, vics82
 ---
 
 Been churning through more SCUBA-2 CLS data reduction (8TB raw in the can),
