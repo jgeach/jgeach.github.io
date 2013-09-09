@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Galaxy Evolution Over Five Decades"
+date:   2013-09-09 19:12:36
+categories: conferences, talks
+---
+
+Attended Galaxy Evolution Over Five Decades last week in Cambridge, to
+celebrate Malcolm Longair's career. Good set of talks (I talked about CLS) -
+it was particularly good to see Rashid Sunyaev talk in person. 
