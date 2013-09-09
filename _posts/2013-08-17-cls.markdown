@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "cls progress"
+title:  "CLS progress"
 date:   2013-08-17 14:14:09
 categories: cls
 ---
 
-Excellent progress this week with CLS: new SMP machine (256GB/32 core) with 30TB local store installed and running nicely. Scheduling jobs with minumum required memory for a single continuous chunk and one smurf thread allows much more efficient processing of many scans in parallel.
+Excellent progress this week with CLS: new SMP machine (256GB/32 core) with
+30TB local store installed and running nicely. Scheduling jobs with minumum
+required memory for a single continuous chunk and one smurf thread allows much
+more efficient processing of many scans in parallel.
 
 Working on LBG stacking and LABs in SSA22.
