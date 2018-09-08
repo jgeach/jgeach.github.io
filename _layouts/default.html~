@@ -6,7 +6,7 @@
     <title>James Geach</title>
 
     <meta name="description" content="The homepage of James Geach / The homepage of Jim Geach">
-    <meta name="keywords" content="James Geach, Jim Geach, galaxies, astronomy, galaxy, cosmology, astrophysics, popular science">
+    <meta name="keywords" content="James Geach, Jim Geach, galaxies, astronomy, galaxy, cosmology, astrophysics, popular science, university of hertfordshire physics">
     <meta name="author" content="James Geach">
 
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/styles.css">
@@ -37,7 +37,7 @@
 
         <p> <a
         href="http://www.herts.ac.uk/research/stri/research-areas/car.html">Centre
-        for Astrophysics Research, School of Physics, Astronomy & Mathematics, University of Hertfordshire</a>,
+        for Astrophysics Research</a>, <a href="https://www.herts.ac.uk/study/schools-of-study/physics-astronomy-and-mathematics">School of Physics, Astronomy & Mathematics</a>, University of Hertfordshire</a>,
         Hatfield, Hertfordshire, AL10 9AB, United Kingdom</p>
       </p>	
 
