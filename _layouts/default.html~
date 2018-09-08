@@ -31,7 +31,7 @@
         <h1>Dr James Geach</h1>
         <p class="view">       
         
-        <p>Astrophysicist / Writer</p><img src='{{ site.url }}/i/jimhead.jpg' alt="Jim Geach" /> 
+        <p>Astrophysicist / Writer</p><img src='{{ site.url }}/i/head.jpg' alt="Jim Geach" /> 
         <a href="http://www.twitter.com/jgeach">@jgeach</a></p> <p>j.geach at herts.ac.uk.</p>
 
 
